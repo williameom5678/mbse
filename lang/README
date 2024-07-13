@@ -36,6 +36,7 @@ gl		Redy Rodriguez <redy@users.sourceforge.net>
 de		Harald Wuensch <Harald.Wuensch@gecits-eu.com>
 germandu	Malte Tychsen <2:240/9350@fidonet> (alternative german).
 fr		Francois Thunus <2:270/24@fidonet>
+ko		William Eom	<williameom1234@protonmail.com>
 
 If you want to use the germandu language instead of the default german
 language then run "mblang germandu.txt language.de" and install the
