@@ -1,0 +1,482 @@
+|이름과 성을 입력해주세요: 
+|성씨를 입력해주세요: 
+|사용자를 접속해제 합니다...
+|사용자 파일을 스캔중입니다...
+YN|이름을 제대로 입력하셨나요? [Y/n] 
+|이름을 사용하여 다시 로그인 해주세요: 
+|개인 시스템 입니다. 나가시려면 "off"를 입력해주세요.
+|파일 번호를 입력하시거나 <ENTER>로 멈춰주세요.
+|비밀번호: 
+|로그인 최대 시도 횟수를 초과하셨네요!
+|이름이나 비밀번호가 정확하지 않군요.
+HR|홈(H) 디렉토리나 규칙(R) 디렉토리로 내보내기:
+|규칙 디렉토리로 메시지를 내보낸 결과:
+|이 구역에서 규칙을 찾지 못하였습니다.
+|해당 메시지를 삭제할 권한이 없으시군요!
+|오프라인 리더: 확장 정보를 활성화 하였습니다.
+|오프라인 리더: 확장 정보를 비활성화 하였습니다.
+|텍스트 파일이 아니네요!
+|로그인 하실수 있습니다!
+|times at the same time.
+|이 경로는 다른 유저가 선점하고 있어요. 조금 있다가 다시 시도해 주세요.
+YN| 입력한 정보가 정확한가요? [y/N]: 
+|가져올 수 없어요 
+|선호하시는 문자 인코딩을 선택해주세요
+|문자 인코딩을 선택해주세요 (<ENTER> 로 종료하시고): 
+|현재 인코딩:
+YN|매 로그인 마다 새 메일을 확인할까요? [Y/n]: 
+YN|매 로그인 마다 새 파일을 확인할까요? [Y/n]: 
+|채팅을 하고자 하는 이유를 입력해주세요:
+|현재 시샵은 접속중이 아니네요! 채팅을 하시려면 mbmon 을 사용해주세요.
+|죄송하지만, 채팅 서버가 행방불명 되었어요...
+|라인 
+|
+|
+|
+|
+|
+|ITCS Bulletin Board System - 신규가입
+|사용하실 이름 : 
+|사용하실 비밀번호 : 
+|사용하실 비밀번호를 재입력 해주세요 : 
+|비밀번호가 일치하지 않네요!  다시 시도해 주세요.
+|비밀번호는 최소한 
+|글자여야 합니다!  다시 시도해 주세요.
+|
+|전화번호를 입력해 주세요:
+|개인 디렉토리로 메시지를 내보냈습니다: 
+|전화번호가 이상합니다!
+|데이터 번호를 입력해 주세요:
+|주소를 입력해 주세요: 
+|주소를 정확히 입력해 주세요.
+MF|성별이 무엇인가요? 남성(M) 여성(F) : 
+|남성
+|여성
+|남성과 여성 둘 중 하나만 입력해 주세요.
+|몰?루
+|생년월일을 입력해 주세요 (DD-MM-YYYY): 
+|저기요, 혹시 입력하신 년도에 실수가 있나요?
+|정확한 형식으로 날짜를 입력해주세요.
+|*** 시샵이 채팅을 시작하려고 합니다 ***
+|*** 시샵이 채팅을 그만하려고 합니다 ***
+YN=|더보기 (Y/n/=) 
+YN|핫-키 메뉴를 사용해보겠나요? [Y/n]: 
+| Y 나 N으로 답해주세요.
+|
+|없어요
+|Tag Offline Reader message areas
+|신규 계정 생성을 완료했어요:
+|Login name : 
+|Password   : 
+|보이지 않아요
+|신규 가입이 완료되었어요.
+|찾을수 없네요 
+|예전 위치: 
+|상세주소를 입력해주세요 (min 
+|
+|
+|메시지가 존재하지 않아요!
+|뉴스 게시판을 활성화 했어요.
+|뉴스 게시판을 비활성화 했어요.
+|
+|
+|This is a private message; only the owner and addressee can view it.
+|Please enter the date using the correct date format.
+|Today's Callers to 
+|#    User Name           Device  TimeOn  Calls  Location
+|Can't open archiver file.
+|Select your preferred archiver:
+|Select archive type (<ENTER> to quit): 
+|Archiver now set to:
+|Please enter three combinations.
+|1st digit: 
+|Please try again! You must input a number greater than zero and less than 
+|2nd digit: 
+|3rd digit: 
+| Left: 
+|Right: 
+YN|Attempt to open safe with this combination [Y/n]: 
+|You have won the following...
+|Sorry - you didn't open the safe!
+|The safe code was:
+YN|Do you want to try again? [Y/n]: 
+YN|Do you want to open the safe? [Y/n]: 
+|THE SAFE IS CURRENTLY LOCKED!
+|has cracked the safe.
+|The safe will remain locked until the sysop rewards the user.
+|Maximum tries per day exceeded!
+|Edit message signature
+|The FROM, TO and SUBJECT fields are optional.
+|   From: 
+|     To: 
+|Subject: 
+|  Type up to 10 lines (74 characters per line).
+|Functions available:
+LREAS|(L)ist, (R)eplace text, (E)dit line, (A)bort, (S)ave
+|Select: 
+|Aborting...
+|Returning to 
+|Edit which line: 
+|Line does not exist.
+|Old Password: 
+|New password: 
+|Confirm new password: 
+|Passwords do not match!
+|Password change successful.
+|Old password incorrect!
+|User List
+|Enter user name search string or <ENTER> for all users: 
+|Name                     Location                      Last On       Calls
+|Could not find search string!
+|Time limit exceeded.  Disconnecting!
+YN=M|More (Y/n/=) M=Mark 
+|Scanning
+|with
+|TIME STATISTICS for 
+|on
+|Current Time           :
+|Current Date           :
+|Connect time           :
+|Time used today        :
+|Time remaining today   :
+|Daily time limit       :
+|You have 
+YN|messages, read your mail now? [Y/n]: 
+|You have no new mail in your mail box.
+|Hotkeys are now ON.
+|Hotkeys are now OFF.
+|On 
+|Off
+|User name already exists!
+|Checking your mail box ...
+|MBSE BBS Chat
+|The sysop is currently speaking to somebody else.
+|Try paging him again in a few minutes.
+|You have paged the Sysop the maximum times allowed for the day.
+|The sysop currently is not available.  Please leave a comment.
+|Posting message in area: 
+|From : 
+|  To : 
+|Verifying user...
+|User not found.  Try again or <ENTER> to quit.
+|Subj : 
+YN|Abort Message [y/N] ?: 
+YN|Private [y/N]: 
+|Begin your message now.  Enter a blank line to end the message.
+|Maximum of 60 lines (73 characters per line).
+|Maximum message length exceeded!
+|Functions available: (current message: 
+|Lines)
+|L - List message      S - Save message      C - Continue message
+|Q - Quit message      D - Delete line       I - Insert line
+|T - Text edit         E - Edit line         R - Replace line
+LSCQDITERZ|Z - Center line                                             
+|Select
+|Continue
+|Delete
+|Delete starting at line 
+|Aborted.
+|Please enter a number in the range of 
+|Delete ending at line 
+|Edit
+|Enter line # to edit 
+|Insert
+|Enter line # to insert text before 
+|List
+|Enter line # to replace 
+|Line reads:
+|Unchanged.
+|Line now reads:
+|Quit
+YN|Are you sure? [y/N]: 
+|Message aborted.
+|No
+|Text Edit
+|Enter line # to edit 
+|Text to replace  : 
+|Replacement text : 
+|Line now reads: 
+|Save
+|Possible VIRUS found!
+|Ok
+|Unpacking archive.
+|Saving message to disk. 
+|Enter line # to center 
+|Line is maximum length and cannot be centered.
+|There are no messages in this area.
+|Date    : 
+YN=|More (Y/n/=/Area #): 
+|To      : 
+|From    : 
+|Subject : 
+|Next reply:
+|Reply to:
+|messages in
+ANLREQDX|(A)gain, (N)ext, (L)ast, (R)eply, (E)nter, (D)el, (Q)uit, e(X)port
+|(A)gain, (N)ext, (L)ast, (R)eply, (E)nter, (Q)uit, e(X)port
+|Next
+|ERROR
+RNQ|(R)eply, (N)ext, (Q)uit: 
+|<ENTER> to keep subject.
+|#     From                 To                   Subject                        
+|Message area 
+|contains 
+|messages.
+|Please enter a message between 
+|Message number [
+|Area  Type  Description                              Messages Personal
+|thread
+|Enter the name of the conference or ? for a list: 
+|Conference           Area  Msgs   Description
+|Deleting message 
+| Message Areas
+|Select area: 
+|Invalid area specified. Please try again.
+|Password is incorrect!
+|Password is correct.
+|You don't have enough security to list this area.
+|Can't open file database for this area!
+|Uploaded by: 
+|D E L E T E D
+|
+YN|Node not known.  Continue anyway? [y/N]: 
+|Total files: 
+|FATAL: Unable to open areas database!
+|You do not have enough access to download from this area.
+|Please enter filename: 
+|No filename entered.  Aborting.
+|Illegal filename!
+|Sorry, that file is unavailable for download.
+|You have
+|extra download KBytes.
+|You do not have enough time to download that file.
+|You do not have enough bytes to download " 
+|You must upload before you can download.
+|Kilobytes currently available: 
+|Checking your marked downloads, please wait...
+|Untag offline reader message areas
+|Found FILE_ID.DIZ in
+|No files marked for download.
+|
+|You have selected the following conference(s):
+|Filename                                               Size        Date
+|Protocol: Can't open protocol file.
+|Select your preferred file transfer protocol:
+|Select protocol (<ENTER> to quit): 
+|Invalid selection.  Please try again!
+|Protocol now set to: 
+|Enter keyword to use for Search: 
+|File Search by Keyword
+|Accepts wildcards such as : *.zip, *.gz, *.*
+|                          : *.zip is the same as .zip
+|Enter filename to search for : 
+|File Search by Filename
+YN|Search for new files since your last call? [Y/n]: 
+|Enter new date to search for [DD-MM-YYYY]: 
+|File Search by Date
+|
+|Offline Reader Download
+|You do not have enough access to upload to this area.
+|There is not enough disk space free to copy this file.
+|files(
+|bytes) marked for download.
+|The file already exists on the system!
+|Please start your upload now.
+|Upload was unsuccessful for: 
+YN|Do you want to password protect your upload? [y/N]: 
+|REMEMBER: Passwords are "CaSe SeNsITiVe!"
+|Please enter description of file:
+|Your upload time has been returned to you.  Thank you for your upload!
+|Start copy: 
+|Can't open directory for listing: 
+|Home directory listing for 
+|Please enter filename to delete: 
+|Sorry you may not delete hidden files!
+|Unable to delete file!
+|Invalid filename.  Please try again.
+|File does not exist.  Please try again.
+|Forum                Description                               Msgs. Pers.   
+| File Areas
+|Please enter area password:  
+|Adding BBS 
+|BBS Name: 
+|Response needed ...
+|Phone Number: 
+|Sysop Name: 
+|BBS Software: 
+|Storage (GigaByte): 
+|Speeds: 
+YN|Would you like to add a extended discription? [Y/n]: 
+|Please enter a description for 
+|BBS Listing 
+|#    BBS Name               Number         Software        GigaByte   Speed
+|Search for a BBS 
+|Please enter 3 letters of BBS to search for: 
+|You must use at least 3 letters for searching.
+YN|View this BBS? [Y/n]: 
+|Could not find the BBS listed.
+|Show a BBS 
+|Please enter number to list: 
+|Record does not exist!
+| Record        : 
+| BBS Name      : 
+| Number        : 
+| Software      : 
+| GigaBytes     : 
+| Speeds        : 
+| Sysop Name    : 
+| Available     : 
+| Date of Entry : 
+| Entry Name    : 
+|Delete BBS 
+|Please enter number to delete: 
+|Record 
+|does not belong to you.
+|already marked for deletion.
+|marked for deletion.
+|The sysop will purge the list once he has 
+|seen you have marked a record for deletion.
+|Total messages found:
+|Sorry, that command isn't recognized.
+|Saving.
+|MBSE BBS Oneliners will randomly appear on the main menu.
+|Obscene or libellous oneliners will be deleted!
+|Please enter your oneliner below.  You have 75 characters.
+|Oneliner added!
+| # A Date       User            Description
+| # Description 
+|Please enter number to list:  
+|Connected from 
+|File(s)   : 
+|Size      : 
+|Protocol  : 
+|Updating download counters.  Please wait.
+|Failed!
+|Bytes
+|  #  Area Active     Size  Cost File
+|Yes
+|No
+TE|(T)oggle active, (E)rase all, (ENTER) to continue: 
+|Enter file number, 1..
+|Marked: 
+|No files tagged.
+|Replace
+|Loading BBS.  Please wait!
+|New or deleted mail areas at 
+|Area  State  Type     Description
+|New Mail check is now ON.
+|New Mail check is now OFF.
+|Delete file: 
+YN|Are you Sure? [Y/n]: 
+|New Files check is now ON.
+|New Files check is now OFF.
+|Now using the
+12|Select: 1) Fullscreen editor or 2) External editor (joe) 
+|No messages found to download!
+|Press <ENTER> to continue. 
+|Center
+|Too many messages!  Only the first
+|Select your preferred language:
+|Select language: 
+|Language now set to: 
+|The system will now ask you for a "system account".
+|Your "system account" has been created.  You can use it the next time you call.
+|Please enter a login name (maximum 8 characters) to log onto the server.
+|ie. John Doe, login = jdoe
+|login > 
+|That login name already exists.  Please choose another one.
+|Line
+|Fullscreen
+|External
+|Editor
+|New    
+|Local    
+|Netmail  
+|Echomail 
+|News     
+|Email   
+|Del
+|Jan
+|Feb
+|Mar
+|Apr
+|May
+|Jun
+|Jul
+|Aug
+|Sep
+|Oct
+|Nov
+|Dec
+|Autologout: idletime reached.
+|Will be packed!
+|Enter your handle (<ENTER> for none): 
+|You are now ready to use the bbs!
+|Callers Online to 
+|Name                          Device   Status         Location
+|Do not disturb turned OFF.
+|Do not disturb turned ON.
+|Browsing
+|Downloading
+|Uploading
+|Msg Section
+|External Door
+|Chatting
+|Listing Files
+YN|Do you want to download these messages [Y/n]? 
+|Banking Door
+|Safe Door
+|WhosOn List
+|Offline Reader
+|Please enter username to send message to: 
+|Sorry, there is no one logged on.
+|doesn't wish to be disturbed.
+|Please enter message to send (max 76 characters):
+|** Message ** from
+|Your password has expired. Please enter a new password: 
+|Press <ENTER> to continue. 
+|Posting not allowed as this area is read-only!
+1|Select: 1) Fullscreen editor
+|Offline Reader Upload
+|Invalid packet received!
+|Unknown compression type!
+|Archiver not available!
+|Mail packet type is unknown.
+|Blue Wave offline download
+|Preparing packet
+|Packing with
+|Download failed!
+|Download successful.
+|Updating lastread pointers.
+|Processing Blue Wave reply packet.
+|ERROR in packet!
+|Import messages
+|No write access to area!
+|message(s) imported.
+|Processing offline configuration.
+|Message areas selected
+|Processing file requests.
+|QWK Offline Download
+|Processing QWK reply packet.
+|ASCII Offline Download
+YN|Crash [y/N]: 
+YN|Warning: node is not CM, send immediate? [y/N]: 
+YN|Attach file [y/N]: 
+|File
+|will be attached.
+|File not within
+|mailbox  - Incoming and outgoing email
+|archive  - Archive of your email
+|trash    - Trashcan, your old email
+|Area # 
+|minutes.
+|Fullscreen editor shortcut keys set to Emacs.
+|Fullscreen editor shortcut keys set to Wordstar.
+|Your address (maximum 3 lines [only visible for the sysop]):
+|You need to enter your address here.
+|Old address:
+|Use your alias (
+YN|) to post this message? [Y/n]: 
+|No more areas with unread messages.
+|Addressee not in nodelist.
+|Found addressee in nodelist!
