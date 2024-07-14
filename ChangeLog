@@ -6,3 +6,8 @@ v1.0.7.22	05-May-2021 - Andrew Leary
 		    tossed if mbfido is called with the -unp switch.
 
 		2.  Updated copyright notices to 2021.
+
+v1.0.7.23-ko	2024.07.14 - William Eom
+		
+		1.  Added Korean Support
+		1.  한국어 지원 추가 
