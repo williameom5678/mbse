@@ -5,8 +5,8 @@
 include ../Makefile.global
 
 OTHER		= Makefile README Language.xref germandu.txt
-SDAT		= source.en   source.nl   source.es   source.gl   source.de   source.fr   source.zh 
-LDAT		= language.en language.nl language.es language.gl language.de language.fr language.zh 
+SDAT		= source.en   source.nl   source.es   source.gl   source.de   source.fr   source.zh   source.ko
+LDAT		= language.en language.nl language.es language.gl language.de language.fr language.zh language.ko
 
 
 all:		${LDAT}
@@ -37,6 +37,9 @@ language.fr:	source.fr
 
 language.zh:	source.zh
 		../mbutils/mblang language.zh source.zh
+
+language.ko:	source.ko
+		../mbutils/mblang language.ko source.ko
 
 
 filelist:	Makefile
