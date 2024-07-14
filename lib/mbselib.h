@@ -450,8 +450,9 @@ struct icmp_filter {
 #define	FTNC_KOI8_R		11	/* Unix koi8-r			    */
 #define	FTNC_CP936		12	/* IBM CP 936 (Chinese, GBK)	    */
 #define	FTNC_LATIN_9		13	/* ISO 8859-15 (West Europe EURO    */
-#define FINC_CP949		14	/* CP949(EUC-KR) Korean*/
-#define	FTNC_UTF8		15	/* UTF-8			    */
+
+#define	FTNC_UTF8		14	/* UTF-8			    */
+#define FINC_EUC_KR		15	/* CP949(EUC-KR) Korean*/
 #define FTNC_MAXCHARS		15	/* Highest charset number	    */
 
 
