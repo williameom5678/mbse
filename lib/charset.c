@@ -68,6 +68,7 @@ struct _charalias charalias[] = {
     {(char *)"X-CP1251",        (char *)"CP1251"},
     {(char *)"GBK",             (char *)"CP936"},
     {(char *)"HZ-GB-2312",      (char *)"CP936"},
+    {(char *)"CP949",           (char *)"CP949"}
     {NULL,                      NULL}
 };
 
@@ -92,9 +93,8 @@ struct _charmap charmap[] = {
     {FTNC_KOI8_R, (char *)"KOI8-R 2", (char *)"koi8-r",     (char *)"KOI8-R",   (char *)"ru_RUi.koi8r",(char *)"Unix codepage KOI8-R (Russian)"},
     {FTNC_CP936,  (char *)"CP936 2",  (char *)"gbk",        (char *)"CP936",    (char *)"zh_CN.gbk",   (char *)"IBM codepage 936 (Chinese, GBK)"},
     {FTNC_LATIN_9,(char *)"LATIN-9 2",(char *)"iso-8859-15",(char *)"LATIN-9",  (char *)"en_US",       (char *)"ISO 8859-15 (Western European EURO)"},
-    {FTNC_EUCKR,  (char *)"EUC-KR 2",  (char *)"euc-kr",     (char *)"EUC-KR",    (char *)"ko-KR.eucKR", (char *)"EUC-KR/CP949 (Korean)"},
-    {FTNC_UTF8,   (char *)"UTF-8 4",  (char *)"utf-8",      (char *)"UTF-8",    (char *)"en_US.UTF-8", (char *)"Unicode UTF-8 (ISO/IEC 10646)"},
-    
+    {FTNC_CP949,  (char *)"CP949 2",  (char *)"cp949",      (char *)"CP949",    (char *)"ko-KR.euckr", (char *)"CP949/EUC-KR (Korean)"},
+    {FTNC_UTF8,   (char *)"UTF-8 4",  (char *)"utf-8",      (char *)"UTF-8",    (char *)"en_US.UTF-8", (char *)"Unicode UTF-8 (ISO/IEC 10646)"}, 
     {FTNC_ERROR,  NULL,               NULL,                 NULL,               NULL,                  (char *)"ERROR"}
 };
 
