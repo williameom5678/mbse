@@ -68,7 +68,7 @@ struct _charalias charalias[] = {
     {(char *)"X-CP1251",        (char *)"CP1251"},
     {(char *)"GBK",             (char *)"CP936"},
     {(char *)"HZ-GB-2312",      (char *)"CP936"},
-    {(char *)"CP949",           (char *)"CP949"}
+    {(char *)"CP949",           (char *)"CP949"},
     {NULL,                      NULL}
 };
 
