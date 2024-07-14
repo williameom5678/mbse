@@ -82,6 +82,8 @@ int CountLanguage(void)
 	    AddLang((char *)"Deutsch",    (char *)"D", (char *)"de", fil);	count++;
 	    AddLang((char *)"French",     (char *)"F", (char *)"fr", fil);	count++;
 	    AddLang((char *)"Chinese",    (char *)"C", (char *)"zh", fil);	count++;
+
+		AddLang((char *)"Korean",	  (char *)"K", (char *)"ko", fil);	count++;
 	    
 	    fclose(fil);
 	    chmod(ffile, 0640);
