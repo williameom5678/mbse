@@ -230,6 +230,9 @@ int OpenLanguage(void)
 					UpgradeLanguage((char *)"french", (char *)"fr");
 				    } else if (strstr(lang.xMenuPath, (char *)"chinese")) {
 					UpgradeLanguage((char *)"chinese", (char *)"zh");
+					} else if (strstr(lang.xMenuPath, (char *)"korean")) {
+					UpgradeLanguage((char *)"korean", (char *)"ko");
+					}
 				    } else {
 					WriteError("Unknown language \"%s\", please update manually", lang.Name);
 				    }
