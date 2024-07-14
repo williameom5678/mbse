@@ -93,6 +93,7 @@ struct _charmap charmap[] = {
     {FTNC_CP936,  (char *)"CP936 2",  (char *)"gbk",        (char *)"CP936",    (char *)"zh_CN.gbk",   (char *)"IBM codepage 936 (Chinese, GBK)"},
     {FTNC_LATIN_9,(char *)"LATIN-9 2",(char *)"iso-8859-15",(char *)"LATIN-9",  (char *)"en_US",       (char *)"ISO 8859-15 (Western European EURO)"},
     {FTNC_UTF8,   (char *)"UTF-8 4",  (char *)"utf-8",      (char *)"UTF-8",    (char *)"en_US.UTF-8", (char *)"Unicode UTF-8 (ISO/IEC 10646)"},
+    {FTNC_CP949,  (char *)"CP949 2",  (char *)"euc-kr",     (char *)"CP949",    (char *)"ko-KR.eucKR", (char *)"EUC-KR/CP949 (Korean)"}
     {FTNC_ERROR,  NULL,               NULL,                 NULL,               NULL,                  (char *)"ERROR"}
 };
 
