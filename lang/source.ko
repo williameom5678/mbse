@@ -22,7 +22,7 @@ HR|홈(H) 디렉토리나 규칙(R) 디렉토리로 내보내기:
 YN| 입력한 정보가 정확한가요? [y/N]: 
 |가져올 수 없어요 
 |선호하시는 문자 인코딩을 선택해주세요
-|문자 인코딩을 선택해주세요 (<ENTER> 로 종료하시고): 
+|문자 인코딩을 선택해주세요 (<ENTER> 로 취소): 
 |현재 인코딩:
 YN|매 로그인 마다 새 메일을 확인할까요? [Y/n]: 
 YN|매 로그인 마다 새 파일을 확인할까요? [Y/n]: 
@@ -72,7 +72,7 @@ YN|핫-키 메뉴를 사용해보겠나요? [Y/n]:
 |신규 가입이 완료되었어요.
 |찾을수 없네요 
 |예전 위치: 
-|상세주소를 입력해주세요 (min 
+|상세주소를 입력해주세요 (최소 
 |
 |
 |메시지가 존재하지 않아요!
@@ -80,78 +80,78 @@ YN|핫-키 메뉴를 사용해보겠나요? [Y/n]:
 |뉴스 게시판을 비활성화 했어요.
 |
 |
-|This is a private message; only the owner and addressee can view it.
-|Please enter the date using the correct date format.
-|Today's Callers to 
-|#    User Name           Device  TimeOn  Calls  Location
-|Can't open archiver file.
-|Select your preferred archiver:
-|Select archive type (<ENTER> to quit): 
-|Archiver now set to:
-|Please enter three combinations.
-|1st digit: 
-|Please try again! You must input a number greater than zero and less than 
-|2nd digit: 
-|3rd digit: 
-| Left: 
-|Right: 
-YN|Attempt to open safe with this combination [Y/n]: 
-|You have won the following...
-|Sorry - you didn't open the safe!
-|The safe code was:
-YN|Do you want to try again? [Y/n]: 
-YN|Do you want to open the safe? [Y/n]: 
-|THE SAFE IS CURRENTLY LOCKED!
-|has cracked the safe.
-|The safe will remain locked until the sysop rewards the user.
-|Maximum tries per day exceeded!
-|Edit message signature
-|The FROM, TO and SUBJECT fields are optional.
-|   From: 
-|     To: 
-|Subject: 
-|  Type up to 10 lines (74 characters per line).
-|Functions available:
-LREAS|(L)ist, (R)eplace text, (E)dit line, (A)bort, (S)ave
-|Select: 
-|Aborting...
-|Returning to 
-|Edit which line: 
-|Line does not exist.
-|Old Password: 
-|New password: 
-|Confirm new password: 
-|Passwords do not match!
-|Password change successful.
-|Old password incorrect!
-|User List
-|Enter user name search string or <ENTER> for all users: 
-|Name                     Location                      Last On       Calls
-|Could not find search string!
-|Time limit exceeded.  Disconnecting!
-YN=M|More (Y/n/=) M=Mark 
-|Scanning
-|with
-|TIME STATISTICS for 
+|개인 메시지에요. 보낸 사람이랑 받는 사람만 볼 수 있어요.
+|지정된 날짜 형식으로 입력해주세요. 
+|오늘의 발신자들
+|#    사용자 이름        기기  시간  횟수  장소 
+|압축 파일을 열수 없어요.
+|선호하는 압축 프로그램을 선택해주세요: 
+|압축 형식을 골라주세요 (<ENTER> 로 취소): 
+|현재 압축 프로그램: 
+|세 가지의 조합을 입력해주세요.
+|첫번째 숫자: 
+|다시 시도해 주세요! 0보다 크고 보다 작아야 합니다 -> 
+|두번째 숫자: 
+|세번째 숫자: 
+| 왼쪽: 
+|오른쪽: 
+YN|이 조합으로 금고를 개방하시겠나요? [Y/n]: 
+|보상으로 받은것...
+|저런... 금고를 열지 못하셨군요!
+|금고 비밀번호: 
+YN|다시 시도해보시겠나요? [Y/n]: 
+YN|금고를 개방하시겠나요? [Y/n]: 
+|현재 금고는 잠겨있어요!
+|님 께서 금고를 뜯었습니다.
+|금고는 시샵이 유저에게 보상을 지급하기 전까지 잠겨있을껍니다.
+|일일 시도 횟수를 초과하셨어요!
+|메시지 서명 편집
+|발신, 수신, 제목 항목은 선택입니다.
+|   발신: 
+|   수신: 
+|   제목: 
+|  10줄까지 입력 가능합니다. (1줄당 74 글자까지).
+|가능한 기능:
+LREAS|항목(L), 글자 바꾸기(R), 줄 편집(E), 취소(A), 저장(S)
+|선택: 
+|취소중...
+|돌아가는중 
+|편집하실 줄 번호: 
+|줄이 없어요..
+|옛날 비밀번호: 
+|새 비밀번호: 
+|새 비밀번호 확인: 
+|비밀번호가 일치하지 않아요!
+|비밀번호 변경 성공.
+|옛날 비밀번호가 일치하지 않아요!
+|사용자 명단User List
+|사용자 이름을 입력하시거나 <ENTER> 로 전부 검색하세요: 
+|이름                        위치                       마지막 접속     호출
+|입력값이 부정확합니다!
+|시간을 초과하셨군요... 안녕히 가세요...
+YN=M|더보기 (Y/n/=) M=마킹 
+|스캔중
+|랑
+|사용 시간정보 => 
 |on
-|Current Time           :
-|Current Date           :
-|Connect time           :
-|Time used today        :
-|Time remaining today   :
-|Daily time limit       :
-|You have 
-YN|messages, read your mail now? [Y/n]: 
-|You have no new mail in your mail box.
-|Hotkeys are now ON.
-|Hotkeys are now OFF.
-|On 
-|Off
-|User name already exists!
-|Checking your mail box ...
-|MBSE BBS Chat
-|The sysop is currently speaking to somebody else.
-|Try paging him again in a few minutes.
+|현재 시간               :
+|현재 날짜               :
+|접속 시간               :
+|오늘 사용한 시간        :
+|오늘 남은 시간          :
+|일일 한도               :
+|당신은  
+YN|개의 메시지를 받으셨네요. 지금 읽으시겠나요? [Y/n]: 
+|새 메시지가 없어요.
+|단축키를 활성화 합니다.
+|단축키를 비활성화 합니다.
+|활성화 
+|비활성화
+|해당 사용자 이름은 이미 있어요!
+|메시지 확인중...
+|ITCS BBS Chat
+|시샵은 현재 다른 사용자와 대화하고 있어요.
+|조금 있다가 다시 요청해주세요.
 |You have paged the Sysop the maximum times allowed for the day.
 |The sysop currently is not available.  Please leave a comment.
 |Posting message in area: 
