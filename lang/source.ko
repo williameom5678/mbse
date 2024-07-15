@@ -152,35 +152,35 @@ YN|개의 메시지를 받으셨네요. 지금 읽으시겠나요? [Y/n]:
 |ITCS BBS Chat
 |시샵은 현재 다른 사용자와 대화하고 있어요.
 |조금 있다가 다시 요청해주세요.
-|You have paged the Sysop the maximum times allowed for the day.
-|The sysop currently is not available.  Please leave a comment.
-|Posting message in area: 
-|From : 
-|  To : 
-|Verifying user...
-|User not found.  Try again or <ENTER> to quit.
-|Subj : 
-YN|Abort Message [y/N] ?: 
-YN|Private [y/N]: 
-|Begin your message now.  Enter a blank line to end the message.
-|Maximum of 60 lines (73 characters per line).
-|Maximum message length exceeded!
-|Functions available: (current message: 
-|Lines)
-|L - List message      S - Save message      C - Continue message
-|Q - Quit message      D - Delete line       I - Insert line
-|T - Text edit         E - Edit line         R - Replace line
-LSCQDITERZ|Z - Center line                                             
-|Select
-|Continue
-|Delete
-|Delete starting at line 
-|Aborted.
-|Please enter a number in the range of 
-|Delete ending at line 
-|Edit
-|Enter line # to edit 
-|Insert
+|일일 시샵 호출 횟수를 초과하셨습니다.
+|시샵은 현재 부재중이에요. 쪽지 남겨주세요.
+|메시지를 보낼 구역: 
+|발신 :  
+|수신 :  
+|사용자 증명중...
+|사용자를 찾을수 없어요. 다시 시도하시거나 <ENTER>로 취소하세요.
+|부제 :  
+YN|메시지 취소 [y/N] ?: 
+YN|비공개 [y/N]: 
+|여기서부터 메시지를 시작해주세요. 끝내시려면 마지막 줄을 공백으로 두세요.
+|최대 60줄 까지 가능합니다 (줄당 73 글자).
+|최대 메시지 글자수를 초과했어요!
+|가능한 기능: (현재 기능 -> 메시지: 
+|줄)
+|L - 메시지 목록      S - 메시지 저장      C - 계속 작성하기     
+|Q - 메시지 취소      D - 줄 전체 삭제     I - 줄 삽입           
+|T - 글 본문 수정     E - 줄 편집          R - 줄 치환           
+LSCQDITERZ|Z - 중앙 정렬                                                 
+|선택
+|진행
+|삭제
+|앞쪽부터 줄 삭제
+|취소하셨어요.
+|숫자 범위를 입력해주세요 : 
+|뒷쪽부터 줄 삭제 
+|편집
+|편집은 line # 를 입력해주세요.
+|삽입
 |Enter line # to insert text before 
 |List
 |Enter line # to replace 
