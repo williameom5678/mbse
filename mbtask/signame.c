@@ -36,7 +36,7 @@
  *  Signal handler signal names.
  */
 
-#if defined(__i386__) || defined(__x86_64__) || defined(__arm__)
+#if defined(__i386__) || defined(__x86_64__) || defined(__arm__) || defined(__aarch64__)
 
 char	SigName[32][16] = {	"NOSIGNAL",
 		"SIGHUP",	"SIGINT",	"SIGQUIT",	"SIGILL",
