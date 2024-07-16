@@ -437,6 +437,8 @@ void soft_info(void)
 	p = xstrcat(p, (char *)" HPPA)");
 #elif defined(__arm__)
 	p = xstrcat(p, (char *)" ARM)");
+#elif defined(__aarch64__)
+	p = xstrcat(p, (char *)" ARM64)");
 #else
 #error "Unknown CPU"
 #endif
