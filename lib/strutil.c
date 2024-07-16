@@ -395,6 +395,8 @@ char *OsCPU()
     return (char *)"HPPA";
 #elif __arm__
     return (char *)"ARM";
+#elif __aarch64__
+    return (char *)"ARM64";
 #else
 #error "Unknown CPU"
 #endif
